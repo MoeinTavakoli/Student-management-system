@@ -6,7 +6,7 @@ The following fields are required for each student record:
 - `student_id`: a 7-digit string or character
 - `name`: first name of the student
 - `family_name`: last name of the student
-- `input_year`: a 4-digit integer representing the year the student joined the university
+- `admission_year`: a 4-digit integer representing the year the student joined the university
 - `field`: an integer representing the field of study, with the following options:
 
 1. computer
